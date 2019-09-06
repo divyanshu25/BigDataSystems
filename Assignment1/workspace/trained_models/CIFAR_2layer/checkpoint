@@ -1,2 +1,0 @@
-model_checkpoint_path: "/Users/dibu/Gatech Academics/BigDataSystems-CS6220/BigDataAssignments/Assignment1/workspace/trained_models/CIFAR_2layer/CIFAR_2layer.ckpt"
-all_model_checkpoint_paths: "/Users/dibu/Gatech Academics/BigDataSystems-CS6220/BigDataAssignments/Assignment1/workspace/trained_models/CIFAR_2layer/CIFAR_2layer.ckpt"
