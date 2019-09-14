@@ -17,12 +17,13 @@ Requirement.
   - (4) Then you use your testing images to test your K-class CNN classifier trained by TensorFlow and report the average test accuracy and test time.
   - (5) Outlier Test Scenario. When performing testing on your K-class CNN classifier you have trained, in addition to use the test dataset from the same collection, you are asked to perform an outlier test by creating 10 or more images that do not belong to the K class classification task. For example, if you choose dog and cat as your binary classification task, then create 10 photos of your favorite actor/actress, or favorite cars). Perform outlier test on your classifiers and report your results in a table titled outlier test. Also include 5 examples of your outlier test set.
   - (6) Choose 3 new datasets from the public domain. Using TensorFlow to produce another 3 K-class CNN classifier. Measure the training and testing accuracy and time.
-Hint: Here are some example datasets.
-MNIST dataset. http://yann.lecun.com/exdb/mnist/.
-USPS dataset. https://www.kaggle.com/bistaumanga/usps-dataset
-Traffic Sign Recognition. https://www.kaggle.com/c/traffic-sign-recognition LISA dataset: http://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html p2-trafficsigns. https://github.com/ vxy10/p2-TrafficSigns
-The face database. https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html
-You can also find most of them at http://yanzhaowu.me/GTDLBench/datasets/.
+    - MNIST dataset. http://yann.lecun.com/exdb/mnist/.
+    - USPS dataset. https://www.kaggle.com/bistaumanga/usps-dataset
+    - Traffic Sign Recognition. https://www.kaggle.com/c/traffic-sign-recognition 
+    - LISA dataset: http://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html 
+    - p2-trafficsigns. https://github.com/ vxy10/p2-TrafficSigns
+    - The face database. https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html
+    - You can also find most of them at http://yanzhaowu.me/GTDLBench/datasets/.
 Deliverable:
   - (1) provide URL of your open source code package and dataset download.
   - (2) Screen shots of your execution process/environments
