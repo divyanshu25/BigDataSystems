@@ -1,6 +1,6 @@
 # BigDataSystems
 
-#Dataset Preparation
+# Dataset Preparation
 You are asked to use at least two different image datasets for your K-class classification task, and K >= 10.
   - (i) Color rich and object rich images like photos of people and buildings together, such as CIFAR-10 (https://www.cs.toronto.edu/~kriz/cifar.html). If you choose K>10, then extract K classes of images from ImageNet (https://github.com/tensorflow/models/tree/master/tutorials/image/imagenet), or Kaggle (https://www.kaggle.com/), or your favorite photo collections or from our own photo collections.
   - (ii) At minimum, you should have 10 images per class. Hint: Most laptop computers can handle training of CNN classifiers on 1000 images easily.
